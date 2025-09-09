@@ -1,0 +1,11 @@
+git init  : chỉ cần làm 1 lần, mục đích là khởi tạo git cho dự án
+
+git status : có thể dùng (hoặc không cần dùng), mục đích là xem trạng thái của files
+
+git add : dùng câu lệnh này để thêm files vào staging area, chuẩn bị cho việc commit
+
+git commit : tạo ra version của phần mềm (snapshot), đây chính là cách lưu lịch sử.
+
+git remote : chỉ làm 1 lần, dùng để kết nối local repository tới remote repository
+
+git push: dùng để đẩy code từ local lên remote repository
